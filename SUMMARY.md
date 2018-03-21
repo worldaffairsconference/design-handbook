@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [The Basics](chapter1.md)
+* [The Basics](the-basics.md)
 * [Style Guide \(External Link\)](style-guide-external-link.md)
 * [The Roadmap](the-roadmap.md)
 * [Conference Logos](the-logos.md)
