@@ -1,3 +1,10 @@
-# First Chapter
+# The Basics
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+## What is WAC?
+
+## What is Design at WAC?
+
+## Tools of the Trade
+
+
+
