@@ -12,4 +12,5 @@
 * [Nametags](nametags.md)
 * [Social Media](social-media.md)
 * [Website ](website.md)
+* Video
 
