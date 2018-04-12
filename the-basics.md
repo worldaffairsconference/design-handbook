@@ -10,5 +10,3 @@ Design at WAC is fundamental to ensuring a high-quality conference experience: i
 
 "Design" is a very broad term: within WAC's Design team, we have Graphic Designers, Video Makers, Web Designers, Social Media Managers, an Audio/Visual team, and more! For everything to function properly, each member of the design team needs to know what their role is in this giant puzzle piece, and how they interact with other members of WAC's team.
 
-
-

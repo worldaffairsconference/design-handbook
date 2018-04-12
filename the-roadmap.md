@@ -22,5 +22,3 @@ Each "lifecycle" starts in April, when the Conference Chair and the rest of the 
 | Livestream Materials | Design setup for the livestream \(keynote + programs\) | First Week February | Conference Day |
 | Social Media - Day of Conference | Social Media support for day of the conference | First Week February | Conference Day |
 
-
-
