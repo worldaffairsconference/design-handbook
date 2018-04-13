@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction/Home](README.md)
+* [The WAC Design Handbook](README.md)
 * [The Basics](the-basics/README.md)
   * [Briefing: WAC](the-basics/briefing-wac.md)
   * [General Tips and Advice](the-basics/general-tips-and-advice.md)
