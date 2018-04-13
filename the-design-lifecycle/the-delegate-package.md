@@ -1,4 +1,4 @@
-# The Delegate Package
+# Delegate Package
 
 The Delegate Package
 

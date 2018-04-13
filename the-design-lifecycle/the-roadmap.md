@@ -6,8 +6,6 @@ description: >-
 
 # The Roadmap
 
-Throughout the lifecycle of each "WAC", there are many design needs that need to be met and fulfilled at certain timelines. This page will cover a general timeline of what those things are, and when they should be completed.
-
 ## Lifecycles
 
 Each "lifecycle" starts in April, when the Conference Chair and the rest of the staff are decided, and ends in February, when the conference ends. While the exact dates in each lifecycle will vary based on the current staff list and circumstances, following the recommended timelines makes everything run smoothly.
