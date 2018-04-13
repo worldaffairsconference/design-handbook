@@ -1,6 +1,14 @@
+---
+description: What are the tools of the trade?
+---
+
 # Tools
 
 There isn't a single set of "must-have" tools that every designer at WAC needs, but there are sets of tools that make designing easy. In addition, many of the templates that WAC builds its design off of were made in specific softwares: in those scenarios, designers will have to use that software.
+
+#### A Note on Software Versioning
+
+In the wide majority of cases, WAC will simply use the latest stable version of respective software. However, with some software \(most notably Adobe software\), this is not feasible from a budgetary or technological perspective. Therefore, we always recommend saving copies of files in backwards-compatible file formats, and coordinating with other members of the design team on software versions.  This is especially a problem when handing off files from major Adobe versions, such as Photoshop CC to Photoshop CS5.
 
 ## General Purpose Tools
 

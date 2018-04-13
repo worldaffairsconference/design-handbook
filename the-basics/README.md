@@ -1,3 +1,7 @@
+---
+description: What is WAC? What is Design at WAC?
+---
+
 # The Basics
 
 ## What is WAC?
