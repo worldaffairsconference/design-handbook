@@ -16,7 +16,7 @@
   * [Nametags](the-design-lifecycle/nametags.md)
   * [Social Media](the-design-lifecycle/social-media.md)
   * [Website](the-design-lifecycle/website.md)
-  * [Livestream](the-design-lifecycle/livestream.md)
   * Video
+  * [Livestream](the-design-lifecycle/livestream.md)
 * [The Future](the-future.md)
 
