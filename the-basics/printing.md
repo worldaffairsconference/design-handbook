@@ -1,6 +1,6 @@
-# General Tips and Advice
+# Printing
 
-## Printing
+
 
 Whenever a design is made to print, there are always a few things to consider:
 
