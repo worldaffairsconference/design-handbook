@@ -36,19 +36,33 @@ There are many colour pickers available to download, and WAC doesn't prefer a ce
 
 ### Adobe InDesign
 
+InDesign is the software that we use to make complex ready-to-print materials, specifically the Delegate Package and the Nametags. InDesign is great at creating layouts for multi-page designs, using data to generate data-based materials \(i.e. nametags\), and generally making documents that are ready to print. Using InDesign is a breeze if one is already familiar with Photoshop and/or Illustrator.
+
 ### Adobe Premiere
 
-### Audacity
+Premiere is the professional video editing software that we use at WAC. We use Premiere not only due to its huge feature-set and its compatibility with other Adobe Software \(e.g. After Effects, Audition\), but also because all of the computers in UCC's Film Dept. come preloaded with Premiere and are powerful enough to render videos quickly enough. 
 
-### Code Editor \(Atom, Brackets, Sublime, VSCode\)
+### [Audacity](https://www.audacityteam.org/)
 
-### GitHub Desktop
+Audacity is a free and open-source audio editor, which can be a good alternative to Adobe Audition when it's unavailable. Learning to use Audacity is quick and easy, and it's useful in a lot of different applications: for the video, online content, and for the livestream.
 
-### Handbrake
+### Code Editor \([Atom](https://atom.io/), [Brackets](http://brackets.io/), [Sublime](https://www.sublimetext.com/), [VSCode](https://code.visualstudio.com/)\)
 
-### Nik Collection
+Coding is a really useful tool skill to have in a wide variety of jobs, and design is no exception. All of web design/development hinges on using code, and coding also comes in handy when manipulating swathes of data or doing checks on human work. While WAC doesn't have a preferred editor \(for real this time\), there is a plethora of editors available online. Since most of our work is with web development and light data work, your editor needs to support Python, HTML/CSS, and Javascript.
 
-### Open Broadcaster Software
+### [GitHub Desktop](https://desktop.github.com/)
 
-### Svgsus
+GitHub Desktop is an open-source visual Git client made by GitHub. Since we use [GitHub extensively at WAC](https://github.com/worldaffairsconference), having a Git client can help simplify the coding workflow and make adopting version control easier.
+
+### [Nik Collection](https://nikcollection.dxo.com/)
+
+The Nik Collection is a super useful \(albeit niche\) free piece of software that can make photos more vibrant. We've used the Nik Collection to apply filters on photos used on printed materials.
+
+### [Open Broadcaster Software](https://obsproject.com/)
+
+OBS is the free and open-source software that we use to create the livestream. To find out more about OBS, check out [the livestream page](../the-design-lifecycle/livestream.md).
+
+### [Svgsus](http://www.svgs.us/)
+
+Svgsus is a useful tool that helps designers organize and manipulate their SVG libraries \(e.g. Font Awesome, Material Design Icons, Octicons\). 
 
