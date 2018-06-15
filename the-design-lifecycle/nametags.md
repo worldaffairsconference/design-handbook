@@ -6,6 +6,8 @@ We print three different kinds of nametags: delegate nametags, which are double-
 
 All of the nametags are templated in InDesign, generated with Data Merge, and then exported to PDF and printed. Nametag design is relatively simple \(as they don't change year by year and most of the heavy lifting comes from computing\), but it's important to look out for edge cases, such as spelling errors, non-Unicode characters, and cutoff text.
 
+While making the nametags can be arduous, those who are experienced with InDesign can make them very quickly. As such, nametags tend to be a one-person job - but that one person needs to have a basic understanding of coding \(to collect the data\) as well as an eye for design \(to make and produce the nametags\).
+
 ## Examples
 
 ![A Staff Nametag](../.gitbook/assets/screen-shot-2018-05-21-at-3.18.02-pm.png)
@@ -14,7 +16,17 @@ All of the nametags are templated in InDesign, generated with Data Merge, and th
 
 ## Data Collection
 
-Before any designing can be done, all the data for the nametags needs to be centralized into one file. 
+Before any designing can be done, all the data for the nametags needs to be centralized into one file. Typically, registration information from WAC is sprawled across different sources \([our registration system](https://github.com/worldaffairsconference/donna), emails, UCC and BH, etc.\). Assembling together all of this information by hand is glaringly inefficient \(and often leads to mistakes\); thus, the best way to ensure that all the files are formatted correctly and put all into one place is through the magic of computers! 
+
+This page won't delve too deep into the specifics \(as the process will vary from year to year\), but typically  data collection consists of a few lightweight scripts \(in a language like Python\) that pull data from all of the different sources, format them, and validate each of the sources. Then, they assign the plenaries for each delegate, and export all the required data to an output CSV \(ready to use with InDesign\). You can find some sample code we've used in previous years in the [WAC scripts repository](https://github.com/worldaffairsconference/scripts). 
+
+### A Quick Note On Plenary Assignments
+
+Assigning plenaries to delegates tends to be a headache, especially with the restrictions that speakers and facilities can put on plenaries. In the past, we've had hiccups every year when programatically assigning plenaries, but the error rate has gone down and down. In theory, it is perfectly possible to write a program that correctly assigns all plenaries - we suggest that future WAC programmers keep on iterating on the scripts we use at WAC.
+
+As a reminder, unless the structure of WAC registration changes, delegates receive 4 preference slots and are assigned three plenaries. As each plenary exists in two timeslots and are paired \(e.g. 2 plenaries are in the first and second timeslot, 2 plenaries are in the first and third timeslot, and 2 plenaries are in the second and third timeslot\), every delegate should receive a set of assignments that is within their preferences. 
+
+The challenge tends to come with balancing room numbers and fire codes - often times one plenary at WAC is overwhelmingly more popular than others, which leads into logistics issues. We recommend that you solve this problem outside of code \(e.g. putting popular plenaries in big venues\), but if you must solve it with code then you have to have situations where delegates' preferences aren't met.
 
 ## Data Merge
 
