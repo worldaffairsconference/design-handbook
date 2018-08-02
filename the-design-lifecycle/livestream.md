@@ -15,7 +15,7 @@ The input layer is the capturing of any live audio and video. Typically, this is
 While there aren't any exact peripherals required to create the input layer, WAC \(and UCC\) already has infrastructure for the input layer, so we recommend that you start from there.
 
 | Item Type | Example Item | Item Description | Where to get |
-| --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | Camera | Canon EOS 5DS | This camera is the input video feed. For whatever camera used, ensure that there are sufficient batteries and that the camera can film video for as long as needed. | UCC Film Dept. |
 | Tripod | Tripod | A tripod should be used for a static shot \(e.g. one of Laidlaw Hall\). | UCC Film Dept. |
 | Video Interface\* | Canon EOS Utility + Camera Live | Converts input feed from the camera into digital video sent to the computer. | [EOS Utility](https://www.usa.canon.com/internet/portal/us/home/support/details/cameras/dslr/eos-5ds), [Camera Live](https://github.com/v002/v002-Camera-Live) |
@@ -82,7 +82,7 @@ There are simple things that you can do to make the stream better:
 Here's what a stream schedule would look like for the keynote event.
 
 | Time | Stream Action |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | ~ 15 minutes before event start | Turn on stream, project a still image of WAC and our speaker's topic and/or a video of the venue, and play non-copyrighted music |
 | ~ 3 minutes before event start | Transition to WAC Video on stream |
 | Keynote start | Transition to close-up of podium, key in podium audio with audio interface |

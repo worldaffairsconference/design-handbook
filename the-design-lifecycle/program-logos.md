@@ -8,3 +8,22 @@ Usually, making Program Logos at WAC is a multi-person job, as you'll need to ma
 
 ## Examples
 
+Admittedly, all of these examples need work - this is an area of WAC that could use lots of improvement.
+
+  
+
+
+![An example from WAC 2018 - Nuclear Weapons](../.gitbook/assets/nuclear.svg)
+
+  
+
+
+![Another example from WAC 2018 - China and The World](../.gitbook/assets/china.png)
+
+![An example from WAC 2017 - Artificial Intelligence](../.gitbook/assets/artificial-intelligence.png)
+
+![Another example from 2017 - Sustainability](../.gitbook/assets/wac-logo.png)
+
+  
+
+
