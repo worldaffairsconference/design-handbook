@@ -12,7 +12,7 @@ Each "lifecycle" starts in April, when the Conference Chair and the rest of the 
 
 | Product | Description | Recommended Start Time | Recommended Publish |
 | :--- | :--- | :--- | :--- |
-| [Initial Website Release](website.md) | Updating website for new conference information. | ~ April | ~ Early September |
+| Initial Website Release | Updating website for new conference information. | ~ April | ~ Early September |
 | [Recruitment Posters](recruitment-posters.md) | Recruitment for positions in different departments. | ~ May | ~ Early September |
 | [Program Logos](program-logos.md) | A logo for each program \(plenaries, panels, keynote\) | ~ Early September | ~ Late September |
 | [Video](video.md) | Promotional Video for WAC | ~ Early September | ~ Late October |
