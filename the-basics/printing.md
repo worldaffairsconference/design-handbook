@@ -1,6 +1,8 @@
 # Printing
 
+Many materials at WAC need to be printed. Typically, we print through UCC's Print Shop - contactable at [uccpress@ucc.on.ca](mailto:uccpress@ucc.on.ca).
 
+### Useful Tips
 
 Whenever a design is made to print, there are always a few things to consider:
 
