@@ -8,7 +8,7 @@ There isn't a single set of "must-have" tools that every designer at WAC needs, 
 
 #### A Note on Software Versioning
 
-In the wide majority of cases, WAC will simply use the latest stable version of respective software. However, with some software \(most notably Adobe software\), this is not feasible from a budgetary or technological perspective. Therefore, we always recommend saving copies of files in backwards-compatible file formats, and coordinating with other members of the design team on software versions.  This is especially a problem when handing off files from major Adobe versions, such as Photoshop CC to Photoshop CS5.
+In the wide majority of cases, WAC will simply use the latest stable version of respective software. However, with some software \(most notably Adobe software\), this is not feasible from a budgetary or technological perspective. Therefore, we always recommend saving copies of files in backwards-compatible file formats, and coordinating with other members of the design team on software versions. This is especially a problem when handing off files from major Adobe versions, such as Photoshop CC to Photoshop CS5.
 
 ## General Purpose Tools
 
@@ -40,7 +40,7 @@ InDesign is the software that we use to make complex ready-to-print materials, s
 
 ### Adobe Premiere
 
-Premiere is the professional video editing software that we use at WAC. We use Premiere not only due to its huge feature-set and its compatibility with other Adobe Software \(e.g. After Effects, Audition\), but also because all of the computers in UCC's Film Dept. come preloaded with Premiere and are powerful enough to render videos quickly enough. 
+Premiere is the professional video editing software that we use at WAC. We use Premiere not only due to its huge feature-set and its compatibility with other Adobe Software \(e.g. After Effects, Audition\), but also because all of the computers in UCC's Film Dept. come preloaded with Premiere and are powerful enough to render videos quickly enough.
 
 ### [Audacity](https://www.audacityteam.org/)
 
@@ -60,9 +60,8 @@ The Nik Collection is a super useful \(albeit niche\) free piece of software tha
 
 ### [Open Broadcaster Software](https://obsproject.com/)
 
-OBS is the free and open-source software that we use to create the livestream. To find out more about OBS, check out [the livestream page](../the-design-lifecycle/livestream.md).
+OBS is the free and open-source software that we use to create the livestream. To find out more about OBS, check out [the livestream page](../The Design Lifecycle/livestream.md).
 
 ### [Svgsus](http://www.svgs.us/)
 
-Svgsus is a useful tool that helps designers organize and manipulate their SVG libraries \(e.g. Font Awesome, Material Design Icons, Octicons\). 
-
+Svgsus is a useful tool that helps designers organize and manipulate their SVG libraries \(e.g. Font Awesome, Material Design Icons, Octicons\).
